@@ -39,7 +39,7 @@ The UI is built using **ncurses** for a dynamic, color-coded terminal display.
 ## 🖼️ Output Screenshot
 Below is an example output from the System Monitor tool:
 
-![System Monitor Output](screenshots/screenshot.png)
+![System Monitor Output](screenshots/Screenshot.png)
 
 ---
 
