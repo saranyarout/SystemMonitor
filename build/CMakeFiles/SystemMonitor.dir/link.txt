@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/SystemMonitor.dir/src/format.cpp.o CMakeFiles/SystemMonitor.dir/src/linux_parser.cpp.o CMakeFiles/SystemMonitor.dir/src/main.cpp.o CMakeFiles/SystemMonitor.dir/src/ncurses_display.cpp.o CMakeFiles/SystemMonitor.dir/src/process.cpp.o CMakeFiles/SystemMonitor.dir/src/processor.cpp.o CMakeFiles/SystemMonitor.dir/src/system.cpp.o -o SystemMonitor  -lncurses 

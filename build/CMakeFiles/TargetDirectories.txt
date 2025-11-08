@@ -1,0 +1,3 @@
+/home/saranya/SystemMonitor/System-monitor-tool/build/CMakeFiles/SystemMonitor.dir
+/home/saranya/SystemMonitor/System-monitor-tool/build/CMakeFiles/edit_cache.dir
+/home/saranya/SystemMonitor/System-monitor-tool/build/CMakeFiles/rebuild_cache.dir
